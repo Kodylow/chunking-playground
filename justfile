@@ -1,5 +1,5 @@
 server:
     cd stream-server && cargo run
 
-run:
+client:
     cd stream-client && cargo run
